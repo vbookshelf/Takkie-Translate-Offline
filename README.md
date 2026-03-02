@@ -1,6 +1,8 @@
 # Takkie Translate Offline
 
-### Privacy-first translation of xxx languages and regional language variants. Powered by Google TranslateGemma.
+### Privacy-first translation of xxx languages and regional language variants. 
+
+Powered by Google TranslateGemma.
 
 Takkie Translate is a fully offline, locally-run translation tool for macOS. It uses the Google translategemma:12b model to translate text between xxx languages. No cloud connection is required. Your data never leaves your machine.
 
