@@ -4,6 +4,8 @@
 
 Powered by Google TranslateGemma:12b-4bit
 
+<br>
+
 Takkie Translate is a fully offline, locally-run translation tool for macOS. It uses the Google translategemma:12b model to translate text between xxx languages. No cloud connection is required. Your data never leaves your machine.
 
 You can choose not just a language, but also a regional variant of a language.<br>
