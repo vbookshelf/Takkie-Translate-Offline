@@ -14,10 +14,10 @@ For example: A Brazilian lawyer needs pt-BR, not pt-PT. A Congolese NGO worker n
 Takkie is a Thumb-Drive App (TDA). This means that it's fully portable. It's easy to share with colleagues via AirDrop or by using a thumb-drive. Internet is only required by the first person who downloads the app. Thereafter, the app folder can be copied to other Macs. It will just work - no installation or internet required. The app can also run from an external SSD.
 
 <br>
-<img src="images/image2.png" alt="Web page" height="500">
+<img src="images/image2.png" alt="Web page" height="400">
 <p>GoogleTranslate style UI</p>
 <br>
 
-<img src="images/image1.png" alt="Web page" height="350">
+<img src="images/image1.png" alt="Web page" height="400">
 <p>Includes regional language variants</p>
 <br>
