@@ -52,6 +52,22 @@ A quick installation guide is included in the project folder.
 
 <br>
 
+## References
+
+- Thumb-Drive-App-Concept<br>
+https://github.com/vbookshelf/Thumb-Drive-App-Concept
+
+- Single-File Architecture: One file to rule them all<br>
+https://github.com/vbookshelf/Single-File-Flask-Web-App
+
+- pywebview<br>
+https://github.com/r0x0r/pywebview
+
+- Ollama - translategemma:12b
+  https://ollama.com/library/translategemma:12b
+
+<br>
+
 ## Revision History
 Version 1.0<br>
 5-March-2026<br>
