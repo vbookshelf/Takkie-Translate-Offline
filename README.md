@@ -20,7 +20,7 @@
 
 - <strong>Easy Sharing</strong>: The entire app folder can be shared via AirDrop or physical drives.
 
-- <strong>Zero Installation</strong>: Operates as a Thumb-Drive App (TDA). All dependencies are bundled - including Ollama and the AI model. Easy to share.
+- <strong>Double-click Installation</strong>: Operates as a Thumb-Drive App (TDA). All dependencies are bundled - including Ollama and the AI model.
 
 - <strong>One-Time Download</strong>: Internet is only necessary for the initial download; thereafter, the app can be copied and used on other Macs instantly.
 
