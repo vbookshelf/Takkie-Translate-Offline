@@ -50,4 +50,12 @@ Simply double click the ```start-mac-app.command``` file to install and run.
 
 A quick installation guide is included in the project folder.
 
+<br>
+
+## Revision History
+Version 1.0
+5-March-2026
+Prototype. Released for testing, education and inspiration.
+
+<br>
 
