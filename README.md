@@ -27,7 +27,7 @@
 <p>Includes regional language variants</p>
 <br>
 
-## Sysytem Requirements
+## System Requirements
 
 
 ## Where to download
