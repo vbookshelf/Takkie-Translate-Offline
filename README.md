@@ -1,17 +1,30 @@
 # Takkie Translate Offline
 
-### Privacy-first translation of xxx languages and regional language variants. 
-
-Powered by Google TranslateGemma:12b-4bit
+### A privacy-first, portable translation tool for macOS. Powered by TranslateGemma 12b 4-bit.
 
 <br>
 
-Takkie Translate is a fully offline, locally-run translation tool for macOS. It uses the Google translategemma:12b model to translate text between xxx languages. No cloud connection is required. Your data never leaves your machine.
+<strong>Privacy & Performance</strong>
 
-You can choose not just a language, but also a regional variant of a language.<br>
-For example: A Brazilian lawyer needs pt-BR, not pt-PT. A Congolese NGO worker needs fr-CD. A Taiwanese pharmaceutical company needs zh-Hant, not zh-Hans. These distinctions matter legally and professionally. No other offline tool addresses them.
+- <strong>Regional Variants</strong>: Supports 55 languages and regional variants (e.g., pt-BR vs. pt-PT or zh-Hant vs. zh-Hans).
 
-Takkie is a Thumb-Drive App (TDA). This means that it's fully portable. It's easy to share with colleagues via AirDrop or by using a thumb-drive. Internet is only required by the first person who downloads the app. Thereafter, the app folder can be copied to other Macs. It will just work - no installation or internet required. The app can also run from an external SSD.
+- <strong>Fully Offline</strong>: Runs locally on macOS using the gemma:12b model; no cloud connection or internet is required for operation.
+
+- <strong>Data Security</strong>: Your data never leaves your machine, ensuring total privacy for sensitive work.
+
+- <strong>Easy to use</strong>: Web based Flask app.. But looks and feels like a native macOS application.
+
+<br>
+
+<strong>Portability & Distribution</strong>
+
+- <strong>Easy Sharing</strong>: The entire app folder can be shared via AirDrop or physical drives.
+
+- <strong>Zero Installation</strong>: Operates as a Thumb-Drive App (TDA), meaning it can run directly from an external SSD or a thumb drive without a standard installation process.
+
+- <strong>One-Time Download</strong>: Internet is only necessary for the initial download; thereafter, the app can be copied and used on other Macs instantly.
+
+
 
 <br>
 <img src="images/image2.png" alt="Web page" height="400">
