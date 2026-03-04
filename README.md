@@ -29,7 +29,25 @@
 
 ## System Requirements
 
+To ensure optimal performance, your system should meet the following specifications:
+
+- Operating System: macOS
+- Processor: Apple Silicon (M1, M2, M3, etc.)
+- Memory: 16 GB RAM
+- Storage: 10.2 GB free disk space
+
+<br>
 
 ## Where to download
 
+The project folder is stored in a Kaggle dataset and not here because GitHub has a file size limit.
+
+<br>
+
 ## How to install
+
+Simply double click the ```start-mac-app.command``` file to install and run.
+
+A quick installation guide is included in the project folder.
+
+
