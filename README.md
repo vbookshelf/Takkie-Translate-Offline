@@ -53,8 +53,8 @@ A quick installation guide is included in the project folder.
 <br>
 
 ## Revision History
-Version 1.0
-5-March-2026
+Version 1.0<br>
+5-March-2026<br>
 Prototype. Released for testing, education and inspiration.
 
 <br>
