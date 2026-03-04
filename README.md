@@ -63,7 +63,7 @@ https://github.com/vbookshelf/Single-File-Flask-Web-App
 - pywebview<br>
 https://github.com/r0x0r/pywebview
 
-- Ollama - translategemma:12b
+- Ollama - translategemma:12b<br>
   https://ollama.com/library/translategemma:12b
 
 <br>
