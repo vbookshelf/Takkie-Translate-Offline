@@ -22,7 +22,7 @@
 
 - <strong>Double-click Installation</strong>: Operates as a Thumb-Drive App (TDA). All dependencies are bundled - including Ollama and the AI model.
 
-- <strong>One-Time Download</strong>: Internet is only necessary for the initial download; thereafter, the app can be copied and used on other Macs instantly.
+- <strong>One-Time Download</strong>: Internet is only necessary for the initial download. Thereafter, the app folder can be copied and run on other Macs.
 
 
 <br>
