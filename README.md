@@ -33,3 +33,10 @@
 <img src="images/image1.png" alt="Web page" height="400">
 <p>Includes regional language variants</p>
 <br>
+
+## Sysytem Requirements
+
+
+## Where to download
+
+## How to install
