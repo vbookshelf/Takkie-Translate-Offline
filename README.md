@@ -5,13 +5,14 @@
 <br>
 
 - AI translation on a stick.
+- Double-click to install and run.
 - Supports 55 languages and regional variants (e.g., pt-BR vs. pt-PT or zh-Hant vs. zh-Hans).
 - Web based Flask app. But looks and feels like a native macOS application.
 - Your data never leaves your machine. Total privacy for sensitive work.
 - Bundles the AI model and all binary executables together with the app - including Ollama.
-- Only the first install requires an internet connection. Double-click to install.
+- Only the first install requires an internet connection.
 - Copies of the installed app can be shared using a thumb-drive or AirDrop.
-- All dependencies travel with the copy. No installation necessary. Double-click to run.
+- All dependencies travel with the copy.
 - Runs completely offline.
 - Can be run on an external SSD.
 - Runs in a virtual environment so other software on the user's computer is not disturbed.
