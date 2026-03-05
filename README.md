@@ -16,7 +16,7 @@
 - All dependencies travel with the copy.
 - Runs completely offline.
 - Can be run on an external SSD.
-- Runs in a virtual environment so other software on the user's computer is not disturbed.
+- Runs in a virtual environment. Other software on the user's computer is not disturbed.
 - Easy to audit. Uses a single-file architecture.
 
 
