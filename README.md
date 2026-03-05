@@ -4,7 +4,7 @@
 
 <br>
 
-- AI translation on a stick.
+- AI translation on a stick (Thhumb-Drive App - TAD).
 - Double-click to install and run.
 - Supports 55 languages and regional variants (e.g., pt-BR vs. pt-PT or zh-Hant vs. zh-Hans).
 - Web based Flask app that looks and feels like a native macOS application.
