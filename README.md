@@ -1,6 +1,6 @@
 # Takkie Translate Offline
 
-### High-Performance, Private AI Translation for macOS
+### Privacy-first text translation for macOS. Powered by Google TranslateGemma 12b.
 
 Takkie Translate isn't just a simple wrapper around an LLM. It's a thoughtfully engineered solution for local AI translation. 
 
