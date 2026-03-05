@@ -4,7 +4,7 @@
 
 Takkie Translate isn't just a simple wrapper around an LLM. It's a thoughtfully engineered solution for local AI translation. 
 
-This is also an example of how to package local AI for use in places where there's no internet. It eliminates the "technical friction" usually associated with local LLMs by automating the entire environment setup—from port detection to model management. Powered by TranslateGemma 12b Q4_K_M.
+This is also an example of how to package local AI for use in places where there's no internet. It eliminates the "technical friction" usually associated with local LLMs by automating the entire environment setup - from port detection to model management. Powered by TranslateGemma 12b Q4_K_M.
 
 <br>
 
