@@ -58,6 +58,15 @@ Dynamic port assignment — Both the Flask server and the bundled Ollama instanc
 
 - <strong>Auditable single-file architecture</strong> — All application logic lives in a single ```app.py```, making the full codebase straightforward for users or security reviewers to inspect in its entirety.
 
+## Data Hygiene Best Practices
+
+Even with a secure app, "Human Error" can leave trails. Please follow these rules:
+
+- <strong>The Clipboard Rule</strong>: If you "Copy" a sensitive translation to paste into a report, that text stays in the Mac’s "Clipboard" (the temporary memory).<br>
+Safety Tip: After you finish your work, copy a random, non-sensitive word (like the word "Orange") to "bump" the sensitive text out of the computer's memory.
+
+- <strong>The USB Rule</strong>: If you are running the app from a thumb drive, always "Eject" the drive properly before unplugging it. This ensures the temporary "Virtual Environment" closes correctly and leaves no fragments on the host Mac.
+
 
 <br>
 
