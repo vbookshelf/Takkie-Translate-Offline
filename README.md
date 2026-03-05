@@ -4,7 +4,7 @@
 
 <br>
 
-- AI translation on a stick (Thumb-Drive App - TAD).
+- AI translation on a stick (Thumb-Drive App - TDA).
 - Double-click to install and run.
 - Supports 55 languages and regional variants (e.g., pt-BR vs. pt-PT or zh-Hant vs. zh-Hans).
 - Web based Flask app that looks and feels like a native macOS application.
