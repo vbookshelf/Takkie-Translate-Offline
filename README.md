@@ -9,6 +9,7 @@
 - Supports 55 languages and regional variants (e.g., pt-BR vs. pt-PT or zh-Hant vs. zh-Hans).
 - Web based Flask app that looks and feels like a native macOS application.
 - Your data never leaves your machine. Total privacy for sensitive work.
+- Ephemeral data processing. No sensitive data is stored.
 - Bundles the AI model and all binary executables together with the app - including Ollama.
 - Only the first install requires an internet connection.
 - Copies of the installed app can be shared using a thumb-drive or AirDrop.
@@ -16,7 +17,6 @@
 - Runs completely offline.
 - Can be run on an external SSD.
 - Runs in a virtual environment so other software on the user's computer is not disturbed.
-- Ephemeral data processing. No sensitive data is stored.
 - Easy to audit. Uses a single-file architecture.
 
 
