@@ -16,6 +16,7 @@
 - Can be run on an external SSD.
 - Runs in a virtual environment so other software on the user's computer is not disturbed.
 - Ephemeral data processing. No sensitive data is stored.
+- Easy to audit. Uses a single-file architecture.
 
 
 <br>
