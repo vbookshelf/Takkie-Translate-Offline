@@ -17,7 +17,7 @@
 - Runs completely offline.
 - Can be run on an external SSD.
 - Runs in a virtual environment. Other software on the user's computer is not disturbed.
-- Easy to audit. Uses a single-file architecture.
+- Easy to audit by Human and AI. Uses a single-file architecture.
 
 
 <br>
