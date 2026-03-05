@@ -8,6 +8,10 @@ This is also an example of how to package local AI for use in places where there
 
 <br>
 
+<img src="images/image3.png" alt="Laptop on a desk." height="400">
+
+<br>
+
 - AI translation on a stick (Thumb-Drive App - TDA).
 - Double-click to install and run.
 - Supports 55 languages and regional variants (e.g., pt-BR vs. pt-PT or zh-Hant vs. zh-Hans).
