@@ -42,7 +42,8 @@ To ensure optimal performance, your system should meet the following specificati
 
 ## Where to download
 
-The project folder is stored in a Kaggle dataset and not here because GitHub has a file size limit.
+Because GitHub has a file size limit, the project folder is stored in a Kaggle dataset:<br>
+https://www.kaggle.com/datasets/vbookshelf/takkie-translate-app/
 
 <br>
 
