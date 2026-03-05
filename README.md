@@ -37,6 +37,30 @@ This is also an example of how to package local AI for use in places where there
 <p>Includes regional language variants</p>
 <br>
 
+## Security
+
+- <strong>Strictly local network binding</strong> — Flask is hardcoded to bind on ```127.0.0.1``` only. A check_host() guard aborts the process immediately if any attempt is made to bind to a non-loopback address, making the app unreachable from other devices on the network.
+Dynamic port assignment — Both the Flask server and the bundled Ollama instance use dynamically selected free ports rather than fixed, well-known ports, reducing the risk of port-squatting attacks and conflicts with other services.
+
+- <strong>No data persistence</strong> — Translation input and output are processed ephemerally in memory. No user text, history, or session data is written to disk at any point.
+
+- <strong>Input validation and allowlisting</strong> — The ```/translate``` endpoint validates source and target languages against a pre-loaded allowlist (```_VALID_LANG_PAIRS```) and enforces a 32,000-character input limit. Malformed or missing fields return a 400 error before any model interaction occurs.
+  
+- <strong>Strict HTTP security headers</strong> — Every response includes ```Content-Security-Policy``` (restricting resource loading to ```self```), ```X-Frame-Options: DENY```, ```X-Content-Type-Options: nosniff```, ```Referrer-Policy: no-referrer```, and a ```Permissions-Policy``` blocking camera, geolocation, and payment APIs.
+
+- <strong>No caching of sensitive content</strong> — All responses include ```Cache-Control: no-store``` and ```Pragma: no-cache``` to prevent translation content from being stored by the browser or any intermediary cache.
+
+- <strong>Bundled, isolated Ollama binary</strong> — The app uses its own bundled Ollama binary pointed at a project-local model directory, preventing cross-contamination with any system-level Ollama installation or models.
+  
+- <strong>Incognito WebView</strong> — The app window opens with ```private_mode=True```, so no cookies, browsing history, or cached data persists after the session ends. This also prevents the WebView from inheriting state from other browser sessions on the machine.
+  
+- <strong>Isolated virtual environment</strong> — The app runs in a self-contained Python virtual environment, ensuring it cannot interfere with or be affected by other software on the user's system.
+
+- <strong>Auditable single-file architecture</strong> — All application logic lives in a single ```app.py```, making the full codebase straightforward for users or security reviewers to inspect in its entirety.
+
+
+<br>
+
 ## System Requirements
 
 To ensure optimal performance, your system should meet the following specifications:
