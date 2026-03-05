@@ -1,6 +1,6 @@
 # Takkie Translate Offline
 
-### A privacy-first translation tool for macOS. Powered by TranslateGemma 12b 4-bit.
+### A "double-click" offline translation tool for privacy-conscious macOS users. Powered by TranslateGemma 12b 4-bit.
 
 <br>
 
