@@ -2,9 +2,9 @@
 
 ### Privacy-first text translation for macOS. Powered by Google TranslateGemma 12b.
 
-Takkie Translate isn't just a simple wrapper around an LLM. It's a thoughtfully engineered solution for local AI translation. 
+Takkie Translate isn't just a simple wrapper around an LLM. It's a thoughtfully engineered solution for local AI translation - powered by TranslateGemma 12b Q4_K_M.
 
-This project provides a template for packaging AI for use in places where there's no internet. It eliminates the "technical friction" usually associated with local LLMs by automating the entire environment setup - from port detection to model management. Powered by TranslateGemma 12b Q4_K_M.
+This project provides a template for packaging AI for use in places where there's no internet. It eliminates the "technical friction" usually associated with local LLMs by automating the entire environment setup - from port detection to model management. 
 
 Takkie is essentially a portable, folder-based translation app that doesn't require complex system-wide installation.
 
