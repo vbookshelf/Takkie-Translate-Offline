@@ -86,8 +86,9 @@ To ensure optimal performance, your system should meet the following specificati
 
 ## Where to download
 
-Because GitHub has a file size limit, the project folder is stored in a Kaggle dataset:<br>
-https://www.kaggle.com/datasets/vbookshelf/takkie-translate-app/
+The project folder is stored as a HuggingFace dataset. Hugging Face automatically generates SHA256 hashes for every file in a dataset repository.<br>
+Please click this link to auto download:<br>
+https://huggingface.co/datasets/vbookshelf/Takkie-Translate-Offline-TDA/resolve/main/Takkie-Translate-v1.0-TDA.zip?download=true
 
 <br>
 
