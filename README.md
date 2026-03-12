@@ -92,9 +92,21 @@ https://huggingface.co/datasets/vbookshelf/Takkie-Translate-Offline-TDA/resolve/
 
 ## How to install
 
-Simply double click the ```start-mac-app.command``` file to install and run.
+1. Download the Takkie-Translate-v1.0-TDA.zip file and unzip
+2. Place the unzipped folder on your desktop. Then open the terminal and cd into the Takkie-Translate-v1.0-TDA folder:
+   ```
+   cd Desktop/Takkie-Translate-v1.0-TDA
+   ```
+3. MacOS often quarantines downloaded files. To make the launch script executable, paste this command into the terminal and press Enter:
+```
+cat start-mac-app.command > temp && mv temp start-mac-app.command && chmod +x start-mac-app.command
+```
+4. Open the Takkie-Translate-v1.0-TDA folder and double-click this file: <strong>start-mac-app.command</strong><br>
+If a MacOS security popup appears, click: "Allow"
 
-A quick installation guide is included in the project folder.
+
+5. The app will open. This may take a few seconds. Please be patient if you don't see anything happening. During normal use the app will open much faster. Because the model needs to load, it may take a few seconds to get a response to your first message. Subsequent responses will be much faster.
+
 
 <br>
 
