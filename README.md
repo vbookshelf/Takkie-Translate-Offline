@@ -15,14 +15,12 @@ Takkie is essentially a portable, folder-based translation app that doesn't requ
 
 <br>
 
-- AI translation on a stick (Thumb-Drive App - TDA).
 - Double-click to install and run.
 - Supports 55 languages and regional variants (e.g., pt-BR vs. pt-PT or zh-Hant vs. zh-Hans).
 - Web based Flask app that looks and feels like a native macOS application.
 - Your data never leaves your machine. Total privacy for sensitive work.
 - Ephemeral data processing. No sensitive data is stored.
-- Bundles the AI model and all binary executables together with the app - including Ollama.
-- Only the first install requires an internet connection.
+- Bundles all binary executables together with the app - including Ollama and the model.
 - Copies of the installed app can be shared using a thumb-drive or AirDrop.
 - All dependencies travel with the copy.
 - Runs completely offline.
@@ -80,7 +78,7 @@ To ensure optimal performance, your system should meet the following specificati
 - Operating System: macOS
 - Processor: Apple Silicon (M1, M2, M3, etc.)
 - Memory: 16 GB RAM
-- Storage: 10.2 GB free disk space
+- Storage: 8.5 GB free disk space
 
 <br>
 
@@ -119,7 +117,7 @@ https://github.com/r0x0r/pywebview
 ## Revision History
 Version 1.0<br>
 5-March-2026<br>
-Prototype. Released for testing, education and inspiration.
+Prototype. Released for testing.
 
 <br>
 
