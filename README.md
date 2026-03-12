@@ -15,7 +15,7 @@ Takkie is essentially a portable, folder-based translation app that doesn't requ
 
 <br>
 
-- Double-click to install and run.
+- Double-click to run.
 - Supports 55 languages and regional variants (e.g., pt-BR vs. pt-PT or zh-Hant vs. zh-Hans).
 - Web based Flask app that looks and feels like a native macOS application.
 - Your data never leaves your machine. Total privacy for sensitive work.
