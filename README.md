@@ -92,16 +92,16 @@ https://huggingface.co/datasets/vbookshelf/Takkie-Translate-Offline-TDA/resolve/
 
 ## How to install
 
-1. Download the Takkie-Translate-v1.0-TDA.zip file and unzip
-2. Place the unzipped folder on your desktop. Then open the terminal and cd into the Takkie-Translate-v1.0-TDA folder:
+1. Download the Takkie-Translate-v2.0-TDA.zip file and unzip
+2. Place the unzipped folder on your desktop. Then open the terminal and cd into the Takkie-Translate-v2.0-TDA folder:
    ```
-   cd Desktop/Takkie-Translate-v1.0-TDA
+   cd Desktop/Takkie-Translate-v2.0-TDA
    ```
 3. MacOS often quarantines downloaded files. To make the launch script executable, paste this command into the terminal and press Enter:
 ```
 cat start-mac-app.command > temp && mv temp start-mac-app.command && chmod +x start-mac-app.command
 ```
-4. Open the Takkie-Translate-v1.0-TDA folder and double-click this file: <strong>start-mac-app.command</strong><br>
+4. Open the Takkie-Translate-v2.0-TDA folder and double-click this file: <strong>start-mac-app.command</strong><br>
 If a MacOS security popup appears, click: "Allow"
 
 
@@ -127,6 +127,13 @@ https://github.com/r0x0r/pywebview
 <br>
 
 ## Revision History
+
+Version 2.0<br>
+15-March-2026<br>
+Prototype. Released for testing.<br>
+- Fixed a bug. When multiple apps were open, closing one app resulted in the code trying to close all open apps. Now multiple TDAs can be used at the same time.
+- Previously, if the app detected that the model was missing during startup, it would auto download the model. Now auto download is disabled. It can be enabled by setting ALLOW_MODEL_DOWNLOAD=1 in the start-mac-app.command file.
+
 Version 1.0<br>
 5-March-2026<br>
 Prototype. Released for testing.
