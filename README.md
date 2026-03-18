@@ -92,16 +92,16 @@ https://huggingface.co/datasets/vbookshelf/Takkie-Translate-Offline-TDA/resolve/
 
 ## How to install
 
-1. Download the Takkie-Translate-v2.0-TDA.zip file and unzip
-2. Place the unzipped folder on your desktop. Then open the terminal and cd into the Takkie-Translate-v2.0-TDA folder:
+1. Download the Takkie-Translate-v3.0-TDA.zip file and unzip
+2. Place the unzipped folder on your desktop. Then open the terminal and cd into the Takkie-Translate-v3.0-TDA folder:
    ```
-   cd Desktop/Takkie-Translate-v2.0-TDA
+   cd Desktop/Takkie-Translate-v3.0-TDA
    ```
 3. MacOS often quarantines downloaded files. To make the launch script executable, paste this command into the terminal and press Enter:
 ```
 cat start-mac-app.command > temp && mv temp start-mac-app.command && chmod +x start-mac-app.command
 ```
-4. Open the Takkie-Translate-v2.0-TDA folder and double-click this file: <strong>start-mac-app.command</strong><br>
+4. Open the Takkie-Translate-v3.0-TDA folder and double-click this file: <strong>start-mac-app.command</strong><br>
 If a MacOS security popup appears, click: "Allow"
 
 
