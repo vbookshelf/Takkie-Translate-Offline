@@ -128,6 +128,14 @@ https://github.com/r0x0r/pywebview
 
 ## Revision History
 
+Version 3.0<br>
+18-March-2026<br>
+Prototype. Released for testing.<br>
+- Bundled the Python 3.12 interpreter.
+- Bundled the wheels for all packages.
+- Added a venv token system that deletes a venv that may have been shipped with the app.
+- Modified the code so that the app can only use the bundled uv.
+
 Version 2.0<br>
 15-March-2026<br>
 Prototype. Released for testing.<br>
