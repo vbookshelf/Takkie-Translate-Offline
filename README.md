@@ -86,7 +86,7 @@ To ensure optimal performance, your system should meet the following specificati
 
 The project folder is stored as a HuggingFace dataset. Hugging Face automatically generates SHA256 hashes for every file in a dataset repository.<br>
 Please click this link to auto download:<br>
-https://huggingface.co/datasets/vbookshelf/Takkie-Translate-Offline-TDA/resolve/main/Takkie-Translate-v2.0-TDA.zip?download=true
+https://huggingface.co/datasets/vbookshelf/Takkie-Translate-Offline-TDA/resolve/main/Takkie-Translate-v3.0-TDA.zip?download=true
 
 <br>
 
